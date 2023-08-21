@@ -1,0 +1,7 @@
+{
+  "name": "FaceBookLoginForAndroid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
